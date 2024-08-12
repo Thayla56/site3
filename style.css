@@ -1,4 +1,4 @@
-
+@import url("styles/header.css");  
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -10,7 +10,7 @@ h1 {
     background-color: white;
 }
 .cabeçalho__menu-hamburguer {
- @import url("styles/header.css");  
+ 
   width: 24px;
     height: 24px;
     display: inline-block;
